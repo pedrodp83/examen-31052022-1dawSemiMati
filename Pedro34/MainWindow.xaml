@@ -12,6 +12,9 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <TextBox x:Name="Comprador" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="560,62,0,0" TextWrapping="Wrap" Text="introduce el nombre" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="Comprador1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="486,64,0,0" TextWrapping="Wrap" Text="comprador" VerticalAlignment="Top"/>
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="92,87,0,0" VerticalAlignment="Top" Width="100" Source="/OIP.jpg"/>
+
 
     </Grid>
 </Window>
