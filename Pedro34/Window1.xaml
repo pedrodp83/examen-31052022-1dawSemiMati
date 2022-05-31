@@ -12,6 +12,10 @@
         <TextBlock x:Name="TextBlock3" HorizontalAlignment="Left" Margin="72,175,0,0" TextWrapping="Wrap" Text="Descripcion" VerticalAlignment="Top"/>
         <TextBlock x:Name="TextBlock2" HorizontalAlignment="Left" Margin="77,0,0,0" TextWrapping="Wrap" Text="Categoria" VerticalAlignment="Center"/>
         <TextBlock x:Name="TextBlock4" HorizontalAlignment="Left" Margin="77,273,0,0" TextWrapping="Wrap" Text="Precio" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="183,122,0,0" TextWrapping="Wrap" Text="añade nombre" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBox" HorizontalAlignment="Left" Margin="183,173,0,0" TextWrapping="Wrap" Text="Añade descripcion" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Margin="183,0,0,0" TextWrapping="Wrap" Text="Añade categoria" VerticalAlignment="Center" Width="120"/>
+        <TextBox x:Name="TextBox3" HorizontalAlignment="Left" Margin="183,273,0,0" TextWrapping="Wrap" Text="Añade precio" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
