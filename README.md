@@ -14,7 +14,7 @@
    - Crear todas las funcionalidades neserarias de las vistas aquí.
    - Como mínimo por cada vista deberéis hacer 3 commits con comentarios de qué se ha modificado en ese commit.
    - Hacer uno o varios push con las modificaciones a github.
-   - Una vez realizadas vistas hacer un merge con la rama principal sin borrar esta rama.
+   - Una vez realizadas funcionalidades hacer un merge con la rama principal sin borrar esta rama.
 ![uml](https://github.com/Cucala/examen-31052022-1dawSemiMati/blob/main/images/uml.png)
 7. Volver a la rama principal y escribir en el readmi vuestro nombre y que esperáis del proximo año.
 8. Realizar un commit final y su push.
