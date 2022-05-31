@@ -16,6 +16,8 @@
         <TextBox x:Name="TextBox" HorizontalAlignment="Left" Margin="183,173,0,0" TextWrapping="Wrap" Text="Añade descripcion" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Margin="183,0,0,0" TextWrapping="Wrap" Text="Añade categoria" VerticalAlignment="Center" Width="120"/>
         <TextBox x:Name="TextBox3" HorizontalAlignment="Left" Margin="183,273,0,0" TextWrapping="Wrap" Text="Añade precio" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Boton1" Content="Cancelar" HorizontalAlignment="Left" Margin="134,322,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Boton2" Content="Guardar" HorizontalAlignment="Left" Margin="431,322,0,0" VerticalAlignment="Top" Height="40"/>
 
     </Grid>
 </Window>
