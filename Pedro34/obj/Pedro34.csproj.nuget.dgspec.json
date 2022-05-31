@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedrodoradopazo\\Source\\Repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj": {}
+    "C:\\Users\\pedrodoradopazo\\source\\repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedrodoradopazo\\Source\\Repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj": {
+    "C:\\Users\\pedrodoradopazo\\source\\repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedrodoradopazo\\Source\\Repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj",
+        "projectUniqueName": "C:\\Users\\pedrodoradopazo\\source\\repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj",
         "projectName": "Pedro34",
-        "projectPath": "C:\\Users\\pedrodoradopazo\\Source\\Repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj",
+        "projectPath": "C:\\Users\\pedrodoradopazo\\source\\repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\Pedro34.csproj",
         "packagesPath": "C:\\Users\\pedrodoradopazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedrodoradopazo\\Source\\Repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\obj\\",
+        "outputPath": "C:\\Users\\pedrodoradopazo\\source\\repos\\pedrodp83\\examen-31052022-1dawSemiMati\\Pedro34\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedrodoradopazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
