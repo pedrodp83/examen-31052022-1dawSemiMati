@@ -16,7 +16,7 @@
         <Image x:Name="amazon" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="92,87,0,0" VerticalAlignment="Top" Width="100" Source="/OIP.jpg"/>
         <Button x:Name="BotonProductos" Content="Añadir productos" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="112,217,0,0" VerticalAlignment="Top" Click="BotonProductos_Click"/>
         <Button x:Name="BotonListaCompra" Content="Añadir a la lista de la compra" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="112,250,0,0" VerticalAlignment="Top" Width="171" Height="58"/>
-        <ListBox x:Name="Lista" Grid.ColumnSpan="2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="375,98,120,217"/>
+        <ListBox x:Name="Lista" Grid.ColumnSpan="2" d:ItemsSource="{d:SampleData ItemCount=3}" Margin="375,98,120,217"/>
         <TextBlock x:Name="Total" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="377,259,0,0" TextWrapping="Wrap" Text="Total" VerticalAlignment="Top"/>
         <TextBlock x:Name="Cueta" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="425,259,0,0" TextWrapping="Wrap" Text="$" VerticalAlignment="Top" RenderTransformOrigin="0.101,0.003"/>
 

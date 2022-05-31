@@ -24,10 +24,5 @@ namespace Pedro34
         {
             InitializeComponent();
         }
-
-        private void BotonProductos_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
